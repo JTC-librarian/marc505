@@ -1,0 +1,1 @@
+This folder contains the javascript used to edit the display of contents notes in the Primo VE front end. There are two files, one is the main script, the other shows a fragment of the ojsjsskj.js file that calls the main script.
